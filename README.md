@@ -3,7 +3,9 @@ I work primarily on Time Series and Time Series ensembling.
 
 Check out: 
  + [soothsayer](https://github.com/JSzitas/soothsayer) if you like the **fable** framework and like the idea of meta learning for time series 
- + [blazearima](https://github.com/JSzitas/blazearima) (WIP) A new ARIMA implementation done entirely in C++ for speed and efficiency.
+ + [blaze](https://github.com/JSzitas/blaze) (WIP) A full fledged time series forecasting and analysis toolkit in modern C++. 
+   * contains a new (S)ARIMA(X) implementation leveraging SIMD
+   * miscellaneous time series utility functions
  + [stack](https://github.com/JSzitas/stack) for some general notes on model stacking
  + [gpvolatility](https://github.com/JSzitas/gpvolatility) for an implementation of a funky volatility model
  + [treecoding](https://github.com/JSzitas/treecoding) for some interesting Trees and Forests (particularly an implementation of 'Autoencoder by Forest')
