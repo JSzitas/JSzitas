@@ -13,6 +13,4 @@ Check out:
  + [treecoding](https://github.com/JSzitas/treecoding) for some interesting Trees and Forests (particularly an implementation of 'Autoencoder by Forest')
  + [nlsolver](https://github.com/JSzitas/nlsolver) Nonlinear optimizers as header-only, C++17 library. 
 
-I am currently building a lot of things in C++, for profit and pleasure :)
-
-You can reach me at my professional email(juraj@agnicio.com).
+I am currently building a lot of things in C++, for fun and profit :)
